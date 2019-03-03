@@ -1,6 +1,6 @@
 {
 	"name": "open-twitch-chat",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "[MacOS Only] Open Twitch chat window from command line",
 	"repository": "https://github.com/Hoishin/open-twitch-chat.git",
 	"license": "MIT",
