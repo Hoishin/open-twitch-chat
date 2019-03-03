@@ -5,6 +5,9 @@
 	"repository": "https://github.com/Hoishin/open-twitch-chat.git",
 	"license": "MIT",
 	"author": "Hoishin <hoishinxii@gmail.com>",
+	"files": [
+		"lib"
+	],
 	"bin": {
 		"twitch-chat": "lib/index.js"
 	},
