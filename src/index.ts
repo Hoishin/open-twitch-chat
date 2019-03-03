@@ -4,7 +4,7 @@ import {argv} from 'yargs';
 import execa from 'execa';
 
 const help = `
-twitch-chat-cli: Open Twitch chat of desired channel in Chrome window
+open-twitch-chat: Open Twitch chat of desired channel in Chrome window
 
 $ twitch-chat hoishin
 $ twitch-chat --channel hoishin
